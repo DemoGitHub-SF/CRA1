@@ -1,0 +1,3264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Constituency__c</fullName>
+    <externalId>false</externalId>
+    <label>Constituency</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Aberavon</fullName>
+                <default>false</default>
+                <label>Aberavon</label>
+            </value>
+            <value>
+                <fullName>Aberconwy</fullName>
+                <default>false</default>
+                <label>Aberconwy</label>
+            </value>
+            <value>
+                <fullName>Aberdeen North</fullName>
+                <default>false</default>
+                <label>Aberdeen North</label>
+            </value>
+            <value>
+                <fullName>Aberdeen South</fullName>
+                <default>false</default>
+                <label>Aberdeen South</label>
+            </value>
+            <value>
+                <fullName>Airdrie and Shotts</fullName>
+                <default>false</default>
+                <label>Airdrie and Shotts</label>
+            </value>
+            <value>
+                <fullName>Aldershot</fullName>
+                <default>false</default>
+                <label>Aldershot</label>
+            </value>
+            <value>
+                <fullName>Aldridge-Brownhills</fullName>
+                <default>false</default>
+                <label>Aldridge-Brownhills</label>
+            </value>
+            <value>
+                <fullName>Altrincham and Sale West</fullName>
+                <default>false</default>
+                <label>Altrincham and Sale West</label>
+            </value>
+            <value>
+                <fullName>Alyn and Deeside</fullName>
+                <default>false</default>
+                <label>Alyn and Deeside</label>
+            </value>
+            <value>
+                <fullName>Amber Valley</fullName>
+                <default>false</default>
+                <label>Amber Valley</label>
+            </value>
+            <value>
+                <fullName>Angus</fullName>
+                <default>false</default>
+                <label>Angus</label>
+            </value>
+            <value>
+                <fullName>Arfon</fullName>
+                <default>false</default>
+                <label>Arfon</label>
+            </value>
+            <value>
+                <fullName>Argyll and Bute</fullName>
+                <default>false</default>
+                <label>Argyll and Bute</label>
+            </value>
+            <value>
+                <fullName>Arundel and South Downs</fullName>
+                <default>false</default>
+                <label>Arundel and South Downs</label>
+            </value>
+            <value>
+                <fullName>Ashfield</fullName>
+                <default>false</default>
+                <label>Ashfield</label>
+            </value>
+            <value>
+                <fullName>Ashford</fullName>
+                <default>false</default>
+                <label>Ashford</label>
+            </value>
+            <value>
+                <fullName>Ashton-under-Lyne</fullName>
+                <default>false</default>
+                <label>Ashton-under-Lyne</label>
+            </value>
+            <value>
+                <fullName>Aylesbury</fullName>
+                <default>false</default>
+                <label>Aylesbury</label>
+            </value>
+            <value>
+                <fullName>Ayr Carrick and Cumnock</fullName>
+                <default>false</default>
+                <label>Ayr Carrick and Cumnock</label>
+            </value>
+            <value>
+                <fullName>Banbury</fullName>
+                <default>false</default>
+                <label>Banbury</label>
+            </value>
+            <value>
+                <fullName>Banff and Buchan</fullName>
+                <default>false</default>
+                <label>Banff and Buchan</label>
+            </value>
+            <value>
+                <fullName>Barking</fullName>
+                <default>false</default>
+                <label>Barking</label>
+            </value>
+            <value>
+                <fullName>Barnsley Central</fullName>
+                <default>false</default>
+                <label>Barnsley Central</label>
+            </value>
+            <value>
+                <fullName>Barnsley East</fullName>
+                <default>false</default>
+                <label>Barnsley East</label>
+            </value>
+            <value>
+                <fullName>Barrow and Furness</fullName>
+                <default>false</default>
+                <label>Barrow and Furness</label>
+            </value>
+            <value>
+                <fullName>Basildon and Billericay</fullName>
+                <default>false</default>
+                <label>Basildon and Billericay</label>
+            </value>
+            <value>
+                <fullName>Basingstoke</fullName>
+                <default>false</default>
+                <label>Basingstoke</label>
+            </value>
+            <value>
+                <fullName>Bassetlaw</fullName>
+                <default>false</default>
+                <label>Bassetlaw</label>
+            </value>
+            <value>
+                <fullName>Bath</fullName>
+                <default>false</default>
+                <label>Bath</label>
+            </value>
+            <value>
+                <fullName>Batley and Spen</fullName>
+                <default>false</default>
+                <label>Batley and Spen</label>
+            </value>
+            <value>
+                <fullName>Battersea</fullName>
+                <default>false</default>
+                <label>Battersea</label>
+            </value>
+            <value>
+                <fullName>Beaconsfield</fullName>
+                <default>false</default>
+                <label>Beaconsfield</label>
+            </value>
+            <value>
+                <fullName>Beckenham</fullName>
+                <default>false</default>
+                <label>Beckenham</label>
+            </value>
+            <value>
+                <fullName>Bedford</fullName>
+                <default>false</default>
+                <label>Bedford</label>
+            </value>
+            <value>
+                <fullName>Belfast East</fullName>
+                <default>false</default>
+                <label>Belfast East</label>
+            </value>
+            <value>
+                <fullName>Belfast North</fullName>
+                <default>false</default>
+                <label>Belfast North</label>
+            </value>
+            <value>
+                <fullName>Belfast South</fullName>
+                <default>false</default>
+                <label>Belfast South</label>
+            </value>
+            <value>
+                <fullName>Belfast West</fullName>
+                <default>false</default>
+                <label>Belfast West</label>
+            </value>
+            <value>
+                <fullName>Bermondsey and Old Southwark</fullName>
+                <default>false</default>
+                <label>Bermondsey and Old Southwark</label>
+            </value>
+            <value>
+                <fullName>Berwickshire Roxburgh and Selkirk</fullName>
+                <default>false</default>
+                <label>Berwickshire Roxburgh and Selkirk</label>
+            </value>
+            <value>
+                <fullName>Berwick-upon-Tweed</fullName>
+                <default>false</default>
+                <label>Berwick-upon-Tweed</label>
+            </value>
+            <value>
+                <fullName>Bethnal Green and Bow</fullName>
+                <default>false</default>
+                <label>Bethnal Green and Bow</label>
+            </value>
+            <value>
+                <fullName>Beverley and Holderness</fullName>
+                <default>false</default>
+                <label>Beverley and Holderness</label>
+            </value>
+            <value>
+                <fullName>Bexhill and Battle</fullName>
+                <default>false</default>
+                <label>Bexhill and Battle</label>
+            </value>
+            <value>
+                <fullName>Bexleyheath and Crayford</fullName>
+                <default>false</default>
+                <label>Bexleyheath and Crayford</label>
+            </value>
+            <value>
+                <fullName>Birkenhead</fullName>
+                <default>false</default>
+                <label>Birkenhead</label>
+            </value>
+            <value>
+                <fullName>Birmingham Edgbaston</fullName>
+                <default>false</default>
+                <label>Birmingham Edgbaston</label>
+            </value>
+            <value>
+                <fullName>Birmingham Erdington</fullName>
+                <default>false</default>
+                <label>Birmingham Erdington</label>
+            </value>
+            <value>
+                <fullName>Birmingham Hall Green</fullName>
+                <default>false</default>
+                <label>Birmingham Hall Green</label>
+            </value>
+            <value>
+                <fullName>Birmingham Hodge Hill</fullName>
+                <default>false</default>
+                <label>Birmingham Hodge Hill</label>
+            </value>
+            <value>
+                <fullName>Birmingham Ladywood</fullName>
+                <default>false</default>
+                <label>Birmingham Ladywood</label>
+            </value>
+            <value>
+                <fullName>Birmingham Northfield</fullName>
+                <default>false</default>
+                <label>Birmingham Northfield</label>
+            </value>
+            <value>
+                <fullName>Birmingham Perry Barr</fullName>
+                <default>false</default>
+                <label>Birmingham Perry Barr</label>
+            </value>
+            <value>
+                <fullName>Birmingham Selly Oak</fullName>
+                <default>false</default>
+                <label>Birmingham Selly Oak</label>
+            </value>
+            <value>
+                <fullName>Birmingham Yardley</fullName>
+                <default>false</default>
+                <label>Birmingham Yardley</label>
+            </value>
+            <value>
+                <fullName>Bishop Auckland</fullName>
+                <default>false</default>
+                <label>Bishop Auckland</label>
+            </value>
+            <value>
+                <fullName>Blackburn</fullName>
+                <default>false</default>
+                <label>Blackburn</label>
+            </value>
+            <value>
+                <fullName>Blackley and Broughton</fullName>
+                <default>false</default>
+                <label>Blackley and Broughton</label>
+            </value>
+            <value>
+                <fullName>Blackpool North and Cleveleys</fullName>
+                <default>false</default>
+                <label>Blackpool North and Cleveleys</label>
+            </value>
+            <value>
+                <fullName>Blackpool South</fullName>
+                <default>false</default>
+                <label>Blackpool South</label>
+            </value>
+            <value>
+                <fullName>Blaenau Gwent</fullName>
+                <default>false</default>
+                <label>Blaenau Gwent</label>
+            </value>
+            <value>
+                <fullName>Blaydon</fullName>
+                <default>false</default>
+                <label>Blaydon</label>
+            </value>
+            <value>
+                <fullName>Blyth Valley</fullName>
+                <default>false</default>
+                <label>Blyth Valley</label>
+            </value>
+            <value>
+                <fullName>Bognor Regis and Littlehampton</fullName>
+                <default>false</default>
+                <label>Bognor Regis and Littlehampton</label>
+            </value>
+            <value>
+                <fullName>Bolsover</fullName>
+                <default>false</default>
+                <label>Bolsover</label>
+            </value>
+            <value>
+                <fullName>Bolton North East</fullName>
+                <default>false</default>
+                <label>Bolton North East</label>
+            </value>
+            <value>
+                <fullName>Bolton South East</fullName>
+                <default>false</default>
+                <label>Bolton South East</label>
+            </value>
+            <value>
+                <fullName>Bolton West</fullName>
+                <default>false</default>
+                <label>Bolton West</label>
+            </value>
+            <value>
+                <fullName>Bootle</fullName>
+                <default>false</default>
+                <label>Bootle</label>
+            </value>
+            <value>
+                <fullName>Boston and Skegness</fullName>
+                <default>false</default>
+                <label>Boston and Skegness</label>
+            </value>
+            <value>
+                <fullName>Bosworth</fullName>
+                <default>false</default>
+                <label>Bosworth</label>
+            </value>
+            <value>
+                <fullName>Bournemouth East</fullName>
+                <default>false</default>
+                <label>Bournemouth East</label>
+            </value>
+            <value>
+                <fullName>Bournemouth West</fullName>
+                <default>false</default>
+                <label>Bournemouth West</label>
+            </value>
+            <value>
+                <fullName>Bracknell</fullName>
+                <default>false</default>
+                <label>Bracknell</label>
+            </value>
+            <value>
+                <fullName>Bradford East</fullName>
+                <default>false</default>
+                <label>Bradford East</label>
+            </value>
+            <value>
+                <fullName>Bradford South</fullName>
+                <default>false</default>
+                <label>Bradford South</label>
+            </value>
+            <value>
+                <fullName>Bradford West</fullName>
+                <default>false</default>
+                <label>Bradford West</label>
+            </value>
+            <value>
+                <fullName>Braintree</fullName>
+                <default>false</default>
+                <label>Braintree</label>
+            </value>
+            <value>
+                <fullName>Brecon and Radnorshire</fullName>
+                <default>false</default>
+                <label>Brecon and Radnorshire</label>
+            </value>
+            <value>
+                <fullName>Brent Central</fullName>
+                <default>false</default>
+                <label>Brent Central</label>
+            </value>
+            <value>
+                <fullName>Brent North</fullName>
+                <default>false</default>
+                <label>Brent North</label>
+            </value>
+            <value>
+                <fullName>Brentford and Isleworth</fullName>
+                <default>false</default>
+                <label>Brentford and Isleworth</label>
+            </value>
+            <value>
+                <fullName>Brentwood and Ongar</fullName>
+                <default>false</default>
+                <label>Brentwood and Ongar</label>
+            </value>
+            <value>
+                <fullName>Bridgend</fullName>
+                <default>false</default>
+                <label>Bridgend</label>
+            </value>
+            <value>
+                <fullName>Bridgwater and West Somerset</fullName>
+                <default>false</default>
+                <label>Bridgwater and West Somerset</label>
+            </value>
+            <value>
+                <fullName>Brigg and Goole</fullName>
+                <default>false</default>
+                <label>Brigg and Goole</label>
+            </value>
+            <value>
+                <fullName>Brighton Kemptown</fullName>
+                <default>false</default>
+                <label>Brighton Kemptown</label>
+            </value>
+            <value>
+                <fullName>Brighton Pavilion</fullName>
+                <default>false</default>
+                <label>Brighton Pavilion</label>
+            </value>
+            <value>
+                <fullName>Bristol East</fullName>
+                <default>false</default>
+                <label>Bristol East</label>
+            </value>
+            <value>
+                <fullName>Bristol North West</fullName>
+                <default>false</default>
+                <label>Bristol North West</label>
+            </value>
+            <value>
+                <fullName>Bristol South</fullName>
+                <default>false</default>
+                <label>Bristol South</label>
+            </value>
+            <value>
+                <fullName>Bristol West</fullName>
+                <default>false</default>
+                <label>Bristol West</label>
+            </value>
+            <value>
+                <fullName>Broadland</fullName>
+                <default>false</default>
+                <label>Broadland</label>
+            </value>
+            <value>
+                <fullName>Bromley and Chislehurst</fullName>
+                <default>false</default>
+                <label>Bromley and Chislehurst</label>
+            </value>
+            <value>
+                <fullName>Bromsgrove</fullName>
+                <default>false</default>
+                <label>Bromsgrove</label>
+            </value>
+            <value>
+                <fullName>Broxbourne</fullName>
+                <default>false</default>
+                <label>Broxbourne</label>
+            </value>
+            <value>
+                <fullName>Broxtowe</fullName>
+                <default>false</default>
+                <label>Broxtowe</label>
+            </value>
+            <value>
+                <fullName>Buckingham</fullName>
+                <default>false</default>
+                <label>Buckingham</label>
+            </value>
+            <value>
+                <fullName>Burnley</fullName>
+                <default>false</default>
+                <label>Burnley</label>
+            </value>
+            <value>
+                <fullName>Burton</fullName>
+                <default>false</default>
+                <label>Burton</label>
+            </value>
+            <value>
+                <fullName>Bury North</fullName>
+                <default>false</default>
+                <label>Bury North</label>
+            </value>
+            <value>
+                <fullName>Bury South</fullName>
+                <default>false</default>
+                <label>Bury South</label>
+            </value>
+            <value>
+                <fullName>Bury St Edmunds</fullName>
+                <default>false</default>
+                <label>Bury St Edmunds</label>
+            </value>
+            <value>
+                <fullName>Caerphilly</fullName>
+                <default>false</default>
+                <label>Caerphilly</label>
+            </value>
+            <value>
+                <fullName>Caithness Sutherland and Easter Ross</fullName>
+                <default>false</default>
+                <label>Caithness Sutherland and Easter Ross</label>
+            </value>
+            <value>
+                <fullName>Calder Valley</fullName>
+                <default>false</default>
+                <label>Calder Valley</label>
+            </value>
+            <value>
+                <fullName>Camberwell and Peckham</fullName>
+                <default>false</default>
+                <label>Camberwell and Peckham</label>
+            </value>
+            <value>
+                <fullName>Camborne and Redruth</fullName>
+                <default>false</default>
+                <label>Camborne and Redruth</label>
+            </value>
+            <value>
+                <fullName>Cambridge</fullName>
+                <default>false</default>
+                <label>Cambridge</label>
+            </value>
+            <value>
+                <fullName>Cannock Chase</fullName>
+                <default>false</default>
+                <label>Cannock Chase</label>
+            </value>
+            <value>
+                <fullName>Canterbury</fullName>
+                <default>false</default>
+                <label>Canterbury</label>
+            </value>
+            <value>
+                <fullName>Cardiff Central</fullName>
+                <default>false</default>
+                <label>Cardiff Central</label>
+            </value>
+            <value>
+                <fullName>Cardiff North</fullName>
+                <default>false</default>
+                <label>Cardiff North</label>
+            </value>
+            <value>
+                <fullName>Cardiff South and Penarth</fullName>
+                <default>false</default>
+                <label>Cardiff South and Penarth</label>
+            </value>
+            <value>
+                <fullName>Cardiff West</fullName>
+                <default>false</default>
+                <label>Cardiff West</label>
+            </value>
+            <value>
+                <fullName>Carlisle</fullName>
+                <default>false</default>
+                <label>Carlisle</label>
+            </value>
+            <value>
+                <fullName>Carmarthen East and Dinefwr</fullName>
+                <default>false</default>
+                <label>Carmarthen East and Dinefwr</label>
+            </value>
+            <value>
+                <fullName>Carmarthen West and South Pembrokeshire</fullName>
+                <default>false</default>
+                <label>Carmarthen West and South Pembrokeshire</label>
+            </value>
+            <value>
+                <fullName>Carshalton and Wallington</fullName>
+                <default>false</default>
+                <label>Carshalton and Wallington</label>
+            </value>
+            <value>
+                <fullName>Castle Point</fullName>
+                <default>false</default>
+                <label>Castle Point</label>
+            </value>
+            <value>
+                <fullName>Central Ayrshire</fullName>
+                <default>false</default>
+                <label>Central Ayrshire</label>
+            </value>
+            <value>
+                <fullName>Central Devon</fullName>
+                <default>false</default>
+                <label>Central Devon</label>
+            </value>
+            <value>
+                <fullName>Central Suffolk and North Ipswich</fullName>
+                <default>false</default>
+                <label>Central Suffolk and North Ipswich</label>
+            </value>
+            <value>
+                <fullName>Ceredigion</fullName>
+                <default>false</default>
+                <label>Ceredigion</label>
+            </value>
+            <value>
+                <fullName>Charnwood</fullName>
+                <default>false</default>
+                <label>Charnwood</label>
+            </value>
+            <value>
+                <fullName>Chatham and Aylesford</fullName>
+                <default>false</default>
+                <label>Chatham and Aylesford</label>
+            </value>
+            <value>
+                <fullName>Cheadle</fullName>
+                <default>false</default>
+                <label>Cheadle</label>
+            </value>
+            <value>
+                <fullName>Chelmsford</fullName>
+                <default>false</default>
+                <label>Chelmsford</label>
+            </value>
+            <value>
+                <fullName>Chelsea and Fulham</fullName>
+                <default>false</default>
+                <label>Chelsea and Fulham</label>
+            </value>
+            <value>
+                <fullName>Cheltenham</fullName>
+                <default>false</default>
+                <label>Cheltenham</label>
+            </value>
+            <value>
+                <fullName>Chesham and Amersham</fullName>
+                <default>false</default>
+                <label>Chesham and Amersham</label>
+            </value>
+            <value>
+                <fullName>Chesterfield</fullName>
+                <default>false</default>
+                <label>Chesterfield</label>
+            </value>
+            <value>
+                <fullName>Chichester</fullName>
+                <default>false</default>
+                <label>Chichester</label>
+            </value>
+            <value>
+                <fullName>Chingford and Woodford Green</fullName>
+                <default>false</default>
+                <label>Chingford and Woodford Green</label>
+            </value>
+            <value>
+                <fullName>Chippenham</fullName>
+                <default>false</default>
+                <label>Chippenham</label>
+            </value>
+            <value>
+                <fullName>Chipping Barnet</fullName>
+                <default>false</default>
+                <label>Chipping Barnet</label>
+            </value>
+            <value>
+                <fullName>Chorley</fullName>
+                <default>false</default>
+                <label>Chorley</label>
+            </value>
+            <value>
+                <fullName>Christchurch</fullName>
+                <default>false</default>
+                <label>Christchurch</label>
+            </value>
+            <value>
+                <fullName>Cities of London and Westminster</fullName>
+                <default>false</default>
+                <label>Cities of London and Westminster</label>
+            </value>
+            <value>
+                <fullName>City of Chester</fullName>
+                <default>false</default>
+                <label>City of Chester</label>
+            </value>
+            <value>
+                <fullName>City of Durham</fullName>
+                <default>false</default>
+                <label>City of Durham</label>
+            </value>
+            <value>
+                <fullName>Clacton</fullName>
+                <default>false</default>
+                <label>Clacton</label>
+            </value>
+            <value>
+                <fullName>Cleethorpes</fullName>
+                <default>false</default>
+                <label>Cleethorpes</label>
+            </value>
+            <value>
+                <fullName>Clwyd South</fullName>
+                <default>false</default>
+                <label>Clwyd South</label>
+            </value>
+            <value>
+                <fullName>Clwyd West</fullName>
+                <default>false</default>
+                <label>Clwyd West</label>
+            </value>
+            <value>
+                <fullName>Coatbridge Chryston and Bellshill</fullName>
+                <default>false</default>
+                <label>Coatbridge Chryston and Bellshill</label>
+            </value>
+            <value>
+                <fullName>Colchester</fullName>
+                <default>false</default>
+                <label>Colchester</label>
+            </value>
+            <value>
+                <fullName>Colne Valley</fullName>
+                <default>false</default>
+                <label>Colne Valley</label>
+            </value>
+            <value>
+                <fullName>Congleton</fullName>
+                <default>false</default>
+                <label>Congleton</label>
+            </value>
+            <value>
+                <fullName>Copeland</fullName>
+                <default>false</default>
+                <label>Copeland</label>
+            </value>
+            <value>
+                <fullName>Corby</fullName>
+                <default>false</default>
+                <label>Corby</label>
+            </value>
+            <value>
+                <fullName>Coventry North East</fullName>
+                <default>false</default>
+                <label>Coventry North East</label>
+            </value>
+            <value>
+                <fullName>Coventry North West</fullName>
+                <default>false</default>
+                <label>Coventry North West</label>
+            </value>
+            <value>
+                <fullName>Coventry South</fullName>
+                <default>false</default>
+                <label>Coventry South</label>
+            </value>
+            <value>
+                <fullName>Crawley</fullName>
+                <default>false</default>
+                <label>Crawley</label>
+            </value>
+            <value>
+                <fullName>Crewe and Nantwich</fullName>
+                <default>false</default>
+                <label>Crewe and Nantwich</label>
+            </value>
+            <value>
+                <fullName>Croydon Central</fullName>
+                <default>false</default>
+                <label>Croydon Central</label>
+            </value>
+            <value>
+                <fullName>Croydon North</fullName>
+                <default>false</default>
+                <label>Croydon North</label>
+            </value>
+            <value>
+                <fullName>Croydon South</fullName>
+                <default>false</default>
+                <label>Croydon South</label>
+            </value>
+            <value>
+                <fullName>Cumbernauld Kilsyth and Kirkintilloch East</fullName>
+                <default>false</default>
+                <label>Cumbernauld Kilsyth and Kirkintilloch East</label>
+            </value>
+            <value>
+                <fullName>Cynon Valley</fullName>
+                <default>false</default>
+                <label>Cynon Valley</label>
+            </value>
+            <value>
+                <fullName>Dagenham and Rainham</fullName>
+                <default>false</default>
+                <label>Dagenham and Rainham</label>
+            </value>
+            <value>
+                <fullName>Darlington</fullName>
+                <default>false</default>
+                <label>Darlington</label>
+            </value>
+            <value>
+                <fullName>Dartford</fullName>
+                <default>false</default>
+                <label>Dartford</label>
+            </value>
+            <value>
+                <fullName>Daventry</fullName>
+                <default>false</default>
+                <label>Daventry</label>
+            </value>
+            <value>
+                <fullName>Delyn</fullName>
+                <default>false</default>
+                <label>Delyn</label>
+            </value>
+            <value>
+                <fullName>Denton and Reddish</fullName>
+                <default>false</default>
+                <label>Denton and Reddish</label>
+            </value>
+            <value>
+                <fullName>Derby North</fullName>
+                <default>false</default>
+                <label>Derby North</label>
+            </value>
+            <value>
+                <fullName>Derby South</fullName>
+                <default>false</default>
+                <label>Derby South</label>
+            </value>
+            <value>
+                <fullName>Derbyshire Dales</fullName>
+                <default>false</default>
+                <label>Derbyshire Dales</label>
+            </value>
+            <value>
+                <fullName>Devizes</fullName>
+                <default>false</default>
+                <label>Devizes</label>
+            </value>
+            <value>
+                <fullName>Dewsbury</fullName>
+                <default>false</default>
+                <label>Dewsbury</label>
+            </value>
+            <value>
+                <fullName>Don Valley</fullName>
+                <default>false</default>
+                <label>Don Valley</label>
+            </value>
+            <value>
+                <fullName>Doncaster Central</fullName>
+                <default>false</default>
+                <label>Doncaster Central</label>
+            </value>
+            <value>
+                <fullName>Doncaster North</fullName>
+                <default>false</default>
+                <label>Doncaster North</label>
+            </value>
+            <value>
+                <fullName>Dover</fullName>
+                <default>false</default>
+                <label>Dover</label>
+            </value>
+            <value>
+                <fullName>Dudley North</fullName>
+                <default>false</default>
+                <label>Dudley North</label>
+            </value>
+            <value>
+                <fullName>Dudley South</fullName>
+                <default>false</default>
+                <label>Dudley South</label>
+            </value>
+            <value>
+                <fullName>Dulwich and West Norwood</fullName>
+                <default>false</default>
+                <label>Dulwich and West Norwood</label>
+            </value>
+            <value>
+                <fullName>Dumfries and Galloway</fullName>
+                <default>false</default>
+                <label>Dumfries and Galloway</label>
+            </value>
+            <value>
+                <fullName>Dumfriesshire Clydesdale and Tweeddale</fullName>
+                <default>false</default>
+                <label>Dumfriesshire Clydesdale and Tweeddale</label>
+            </value>
+            <value>
+                <fullName>Dundee East</fullName>
+                <default>false</default>
+                <label>Dundee East</label>
+            </value>
+            <value>
+                <fullName>Dundee West</fullName>
+                <default>false</default>
+                <label>Dundee West</label>
+            </value>
+            <value>
+                <fullName>Dunfermline and West Fife</fullName>
+                <default>false</default>
+                <label>Dunfermline and West Fife</label>
+            </value>
+            <value>
+                <fullName>Dwyfor Meirionnydd</fullName>
+                <default>false</default>
+                <label>Dwyfor Meirionnydd</label>
+            </value>
+            <value>
+                <fullName>Ealing Central and Acton</fullName>
+                <default>false</default>
+                <label>Ealing Central and Acton</label>
+            </value>
+            <value>
+                <fullName>Ealing North</fullName>
+                <default>false</default>
+                <label>Ealing North</label>
+            </value>
+            <value>
+                <fullName>Ealing Southall</fullName>
+                <default>false</default>
+                <label>Ealing Southall</label>
+            </value>
+            <value>
+                <fullName>Easington</fullName>
+                <default>false</default>
+                <label>Easington</label>
+            </value>
+            <value>
+                <fullName>East Antrim</fullName>
+                <default>false</default>
+                <label>East Antrim</label>
+            </value>
+            <value>
+                <fullName>East Devon</fullName>
+                <default>false</default>
+                <label>East Devon</label>
+            </value>
+            <value>
+                <fullName>East Dunbartonshire</fullName>
+                <default>false</default>
+                <label>East Dunbartonshire</label>
+            </value>
+            <value>
+                <fullName>East Ham</fullName>
+                <default>false</default>
+                <label>East Ham</label>
+            </value>
+            <value>
+                <fullName>East Hampshire</fullName>
+                <default>false</default>
+                <label>East Hampshire</label>
+            </value>
+            <value>
+                <fullName>East Kilbride Strathaven and Lesmahagow</fullName>
+                <default>false</default>
+                <label>East Kilbride Strathaven and Lesmahagow</label>
+            </value>
+            <value>
+                <fullName>East Londonderry</fullName>
+                <default>false</default>
+                <label>East Londonderry</label>
+            </value>
+            <value>
+                <fullName>East Lothian</fullName>
+                <default>false</default>
+                <label>East Lothian</label>
+            </value>
+            <value>
+                <fullName>East Renfrewshire</fullName>
+                <default>false</default>
+                <label>East Renfrewshire</label>
+            </value>
+            <value>
+                <fullName>East Surrey</fullName>
+                <default>false</default>
+                <label>East Surrey</label>
+            </value>
+            <value>
+                <fullName>East Worthing and Shoreham</fullName>
+                <default>false</default>
+                <label>East Worthing and Shoreham</label>
+            </value>
+            <value>
+                <fullName>East Yorkshire</fullName>
+                <default>false</default>
+                <label>East Yorkshire</label>
+            </value>
+            <value>
+                <fullName>Eastbourne</fullName>
+                <default>false</default>
+                <label>Eastbourne</label>
+            </value>
+            <value>
+                <fullName>Eastleigh</fullName>
+                <default>false</default>
+                <label>Eastleigh</label>
+            </value>
+            <value>
+                <fullName>Eddisbury</fullName>
+                <default>false</default>
+                <label>Eddisbury</label>
+            </value>
+            <value>
+                <fullName>Edinburgh East</fullName>
+                <default>false</default>
+                <label>Edinburgh East</label>
+            </value>
+            <value>
+                <fullName>Edinburgh North and Leith</fullName>
+                <default>false</default>
+                <label>Edinburgh North and Leith</label>
+            </value>
+            <value>
+                <fullName>Edinburgh South</fullName>
+                <default>false</default>
+                <label>Edinburgh South</label>
+            </value>
+            <value>
+                <fullName>Edinburgh South West</fullName>
+                <default>false</default>
+                <label>Edinburgh South West</label>
+            </value>
+            <value>
+                <fullName>Edinburgh West</fullName>
+                <default>false</default>
+                <label>Edinburgh West</label>
+            </value>
+            <value>
+                <fullName>Edmonton</fullName>
+                <default>false</default>
+                <label>Edmonton</label>
+            </value>
+            <value>
+                <fullName>Ellesmere Port and Neston</fullName>
+                <default>false</default>
+                <label>Ellesmere Port and Neston</label>
+            </value>
+            <value>
+                <fullName>Elmet and Rothwell</fullName>
+                <default>false</default>
+                <label>Elmet and Rothwell</label>
+            </value>
+            <value>
+                <fullName>Eltham</fullName>
+                <default>false</default>
+                <label>Eltham</label>
+            </value>
+            <value>
+                <fullName>Enfield North</fullName>
+                <default>false</default>
+                <label>Enfield North</label>
+            </value>
+            <value>
+                <fullName>Enfield Southgate</fullName>
+                <default>false</default>
+                <label>Enfield Southgate</label>
+            </value>
+            <value>
+                <fullName>Epping Forest</fullName>
+                <default>false</default>
+                <label>Epping Forest</label>
+            </value>
+            <value>
+                <fullName>Epsom and Ewell</fullName>
+                <default>false</default>
+                <label>Epsom and Ewell</label>
+            </value>
+            <value>
+                <fullName>Erewash</fullName>
+                <default>false</default>
+                <label>Erewash</label>
+            </value>
+            <value>
+                <fullName>Erith and Thamesmead</fullName>
+                <default>false</default>
+                <label>Erith and Thamesmead</label>
+            </value>
+            <value>
+                <fullName>Esher and Walton</fullName>
+                <default>false</default>
+                <label>Esher and Walton</label>
+            </value>
+            <value>
+                <fullName>Exeter</fullName>
+                <default>false</default>
+                <label>Exeter</label>
+            </value>
+            <value>
+                <fullName>Falkirk</fullName>
+                <default>false</default>
+                <label>Falkirk</label>
+            </value>
+            <value>
+                <fullName>Fareham</fullName>
+                <default>false</default>
+                <label>Fareham</label>
+            </value>
+            <value>
+                <fullName>Faversham and Mid Kent</fullName>
+                <default>false</default>
+                <label>Faversham and Mid Kent</label>
+            </value>
+            <value>
+                <fullName>Feltham and Heston</fullName>
+                <default>false</default>
+                <label>Feltham and Heston</label>
+            </value>
+            <value>
+                <fullName>Fermanagh and South Tyrone</fullName>
+                <default>false</default>
+                <label>Fermanagh and South Tyrone</label>
+            </value>
+            <value>
+                <fullName>Filton and Bradley Stoke</fullName>
+                <default>false</default>
+                <label>Filton and Bradley Stoke</label>
+            </value>
+            <value>
+                <fullName>Finchley and Golders Green</fullName>
+                <default>false</default>
+                <label>Finchley and Golders Green</label>
+            </value>
+            <value>
+                <fullName>Folkestone and Hythe</fullName>
+                <default>false</default>
+                <label>Folkestone and Hythe</label>
+            </value>
+            <value>
+                <fullName>Forest of Dean</fullName>
+                <default>false</default>
+                <label>Forest of Dean</label>
+            </value>
+            <value>
+                <fullName>Foyle</fullName>
+                <default>false</default>
+                <label>Foyle</label>
+            </value>
+            <value>
+                <fullName>Fylde</fullName>
+                <default>false</default>
+                <label>Fylde</label>
+            </value>
+            <value>
+                <fullName>Gainsborough</fullName>
+                <default>false</default>
+                <label>Gainsborough</label>
+            </value>
+            <value>
+                <fullName>Garston and Halewood</fullName>
+                <default>false</default>
+                <label>Garston and Halewood</label>
+            </value>
+            <value>
+                <fullName>Gateshead</fullName>
+                <default>false</default>
+                <label>Gateshead</label>
+            </value>
+            <value>
+                <fullName>Gedling</fullName>
+                <default>false</default>
+                <label>Gedling</label>
+            </value>
+            <value>
+                <fullName>Gillingham and Rainham</fullName>
+                <default>false</default>
+                <label>Gillingham and Rainham</label>
+            </value>
+            <value>
+                <fullName>Glasgow Central</fullName>
+                <default>false</default>
+                <label>Glasgow Central</label>
+            </value>
+            <value>
+                <fullName>Glasgow East</fullName>
+                <default>false</default>
+                <label>Glasgow East</label>
+            </value>
+            <value>
+                <fullName>Glasgow North</fullName>
+                <default>false</default>
+                <label>Glasgow North</label>
+            </value>
+            <value>
+                <fullName>Glasgow North East</fullName>
+                <default>false</default>
+                <label>Glasgow North East</label>
+            </value>
+            <value>
+                <fullName>Glasgow North West</fullName>
+                <default>false</default>
+                <label>Glasgow North West</label>
+            </value>
+            <value>
+                <fullName>Glasgow South</fullName>
+                <default>false</default>
+                <label>Glasgow South</label>
+            </value>
+            <value>
+                <fullName>Glasgow South West</fullName>
+                <default>false</default>
+                <label>Glasgow South West</label>
+            </value>
+            <value>
+                <fullName>Glenrothes</fullName>
+                <default>false</default>
+                <label>Glenrothes</label>
+            </value>
+            <value>
+                <fullName>Gloucester</fullName>
+                <default>false</default>
+                <label>Gloucester</label>
+            </value>
+            <value>
+                <fullName>Gordon</fullName>
+                <default>false</default>
+                <label>Gordon</label>
+            </value>
+            <value>
+                <fullName>Gosport</fullName>
+                <default>false</default>
+                <label>Gosport</label>
+            </value>
+            <value>
+                <fullName>Gower</fullName>
+                <default>false</default>
+                <label>Gower</label>
+            </value>
+            <value>
+                <fullName>Grantham and Stamford</fullName>
+                <default>false</default>
+                <label>Grantham and Stamford</label>
+            </value>
+            <value>
+                <fullName>Gravesham</fullName>
+                <default>false</default>
+                <label>Gravesham</label>
+            </value>
+            <value>
+                <fullName>Great Grimsby</fullName>
+                <default>false</default>
+                <label>Great Grimsby</label>
+            </value>
+            <value>
+                <fullName>Great Yarmouth</fullName>
+                <default>false</default>
+                <label>Great Yarmouth</label>
+            </value>
+            <value>
+                <fullName>Greenwich and Woolwich</fullName>
+                <default>false</default>
+                <label>Greenwich and Woolwich</label>
+            </value>
+            <value>
+                <fullName>Guildford</fullName>
+                <default>false</default>
+                <label>Guildford</label>
+            </value>
+            <value>
+                <fullName>Hackney North and Stoke Newington</fullName>
+                <default>false</default>
+                <label>Hackney North and Stoke Newington</label>
+            </value>
+            <value>
+                <fullName>Hackney South and Shoreditch</fullName>
+                <default>false</default>
+                <label>Hackney South and Shoreditch</label>
+            </value>
+            <value>
+                <fullName>Halesowen and Rowley Regis</fullName>
+                <default>false</default>
+                <label>Halesowen and Rowley Regis</label>
+            </value>
+            <value>
+                <fullName>Halifax</fullName>
+                <default>false</default>
+                <label>Halifax</label>
+            </value>
+            <value>
+                <fullName>Haltemprice and Howden</fullName>
+                <default>false</default>
+                <label>Haltemprice and Howden</label>
+            </value>
+            <value>
+                <fullName>Halton</fullName>
+                <default>false</default>
+                <label>Halton</label>
+            </value>
+            <value>
+                <fullName>Hammersmith</fullName>
+                <default>false</default>
+                <label>Hammersmith</label>
+            </value>
+            <value>
+                <fullName>Hampstead and Kilburn</fullName>
+                <default>false</default>
+                <label>Hampstead and Kilburn</label>
+            </value>
+            <value>
+                <fullName>Harborough</fullName>
+                <default>false</default>
+                <label>Harborough</label>
+            </value>
+            <value>
+                <fullName>Harlow</fullName>
+                <default>false</default>
+                <label>Harlow</label>
+            </value>
+            <value>
+                <fullName>Harrogate and Knaresborough</fullName>
+                <default>false</default>
+                <label>Harrogate and Knaresborough</label>
+            </value>
+            <value>
+                <fullName>Harrow East</fullName>
+                <default>false</default>
+                <label>Harrow East</label>
+            </value>
+            <value>
+                <fullName>Harrow West</fullName>
+                <default>false</default>
+                <label>Harrow West</label>
+            </value>
+            <value>
+                <fullName>Hartlepool</fullName>
+                <default>false</default>
+                <label>Hartlepool</label>
+            </value>
+            <value>
+                <fullName>Harwich and North Essex</fullName>
+                <default>false</default>
+                <label>Harwich and North Essex</label>
+            </value>
+            <value>
+                <fullName>Hastings and Rye</fullName>
+                <default>false</default>
+                <label>Hastings and Rye</label>
+            </value>
+            <value>
+                <fullName>Havant</fullName>
+                <default>false</default>
+                <label>Havant</label>
+            </value>
+            <value>
+                <fullName>Hayes and Harlington</fullName>
+                <default>false</default>
+                <label>Hayes and Harlington</label>
+            </value>
+            <value>
+                <fullName>Hazel Grove</fullName>
+                <default>false</default>
+                <label>Hazel Grove</label>
+            </value>
+            <value>
+                <fullName>Hemel Hempstead</fullName>
+                <default>false</default>
+                <label>Hemel Hempstead</label>
+            </value>
+            <value>
+                <fullName>Hemsworth</fullName>
+                <default>false</default>
+                <label>Hemsworth</label>
+            </value>
+            <value>
+                <fullName>Hendon</fullName>
+                <default>false</default>
+                <label>Hendon</label>
+            </value>
+            <value>
+                <fullName>Henley</fullName>
+                <default>false</default>
+                <label>Henley</label>
+            </value>
+            <value>
+                <fullName>Hereford and South Herefordshire</fullName>
+                <default>false</default>
+                <label>Hereford and South Herefordshire</label>
+            </value>
+            <value>
+                <fullName>Hertford and Stortford</fullName>
+                <default>false</default>
+                <label>Hertford and Stortford</label>
+            </value>
+            <value>
+                <fullName>Hertsmere</fullName>
+                <default>false</default>
+                <label>Hertsmere</label>
+            </value>
+            <value>
+                <fullName>Hexham</fullName>
+                <default>false</default>
+                <label>Hexham</label>
+            </value>
+            <value>
+                <fullName>Heywood and Middleton</fullName>
+                <default>false</default>
+                <label>Heywood and Middleton</label>
+            </value>
+            <value>
+                <fullName>High Peak</fullName>
+                <default>false</default>
+                <label>High Peak</label>
+            </value>
+            <value>
+                <fullName>Hitchin and Harpenden</fullName>
+                <default>false</default>
+                <label>Hitchin and Harpenden</label>
+            </value>
+            <value>
+                <fullName>Holborn and St Pancras</fullName>
+                <default>false</default>
+                <label>Holborn and St Pancras</label>
+            </value>
+            <value>
+                <fullName>Hornchurch and Upminster</fullName>
+                <default>false</default>
+                <label>Hornchurch and Upminster</label>
+            </value>
+            <value>
+                <fullName>Hornsey and Wood Green</fullName>
+                <default>false</default>
+                <label>Hornsey and Wood Green</label>
+            </value>
+            <value>
+                <fullName>Horsham</fullName>
+                <default>false</default>
+                <label>Horsham</label>
+            </value>
+            <value>
+                <fullName>Houghton and Sunderland South</fullName>
+                <default>false</default>
+                <label>Houghton and Sunderland South</label>
+            </value>
+            <value>
+                <fullName>Hove</fullName>
+                <default>false</default>
+                <label>Hove</label>
+            </value>
+            <value>
+                <fullName>Huddersfield</fullName>
+                <default>false</default>
+                <label>Huddersfield</label>
+            </value>
+            <value>
+                <fullName>Huntingdon</fullName>
+                <default>false</default>
+                <label>Huntingdon</label>
+            </value>
+            <value>
+                <fullName>Hyndburn</fullName>
+                <default>false</default>
+                <label>Hyndburn</label>
+            </value>
+            <value>
+                <fullName>Ilford North</fullName>
+                <default>false</default>
+                <label>Ilford North</label>
+            </value>
+            <value>
+                <fullName>Ilford South</fullName>
+                <default>false</default>
+                <label>Ilford South</label>
+            </value>
+            <value>
+                <fullName>Inverclyde</fullName>
+                <default>false</default>
+                <label>Inverclyde</label>
+            </value>
+            <value>
+                <fullName>Inverness Nairn Badenoch and Strathspey</fullName>
+                <default>false</default>
+                <label>Inverness Nairn Badenoch and Strathspey</label>
+            </value>
+            <value>
+                <fullName>Ipswich</fullName>
+                <default>false</default>
+                <label>Ipswich</label>
+            </value>
+            <value>
+                <fullName>Isle of Wight</fullName>
+                <default>false</default>
+                <label>Isle of Wight</label>
+            </value>
+            <value>
+                <fullName>Islington North</fullName>
+                <default>false</default>
+                <label>Islington North</label>
+            </value>
+            <value>
+                <fullName>Islington South and Finsbury</fullName>
+                <default>false</default>
+                <label>Islington South and Finsbury</label>
+            </value>
+            <value>
+                <fullName>Islwyn</fullName>
+                <default>false</default>
+                <label>Islwyn</label>
+            </value>
+            <value>
+                <fullName>Jarrow</fullName>
+                <default>false</default>
+                <label>Jarrow</label>
+            </value>
+            <value>
+                <fullName>Keighley</fullName>
+                <default>false</default>
+                <label>Keighley</label>
+            </value>
+            <value>
+                <fullName>Kenilworth and Southam</fullName>
+                <default>false</default>
+                <label>Kenilworth and Southam</label>
+            </value>
+            <value>
+                <fullName>Kensington</fullName>
+                <default>false</default>
+                <label>Kensington</label>
+            </value>
+            <value>
+                <fullName>Kettering</fullName>
+                <default>false</default>
+                <label>Kettering</label>
+            </value>
+            <value>
+                <fullName>Kilmarnock and Loudoun</fullName>
+                <default>false</default>
+                <label>Kilmarnock and Loudoun</label>
+            </value>
+            <value>
+                <fullName>Kingston and Surbiton</fullName>
+                <default>false</default>
+                <label>Kingston and Surbiton</label>
+            </value>
+            <value>
+                <fullName>Kingston upon Hull East</fullName>
+                <default>false</default>
+                <label>Kingston upon Hull East</label>
+            </value>
+            <value>
+                <fullName>Kingston upon Hull North</fullName>
+                <default>false</default>
+                <label>Kingston upon Hull North</label>
+            </value>
+            <value>
+                <fullName>Kingston upon Hull West and Hessle</fullName>
+                <default>false</default>
+                <label>Kingston upon Hull West and Hessle</label>
+            </value>
+            <value>
+                <fullName>Kingswood</fullName>
+                <default>false</default>
+                <label>Kingswood</label>
+            </value>
+            <value>
+                <fullName>Kirkcaldy and Cowdenbeath</fullName>
+                <default>false</default>
+                <label>Kirkcaldy and Cowdenbeath</label>
+            </value>
+            <value>
+                <fullName>Knowsley</fullName>
+                <default>false</default>
+                <label>Knowsley</label>
+            </value>
+            <value>
+                <fullName>Lagan Valley</fullName>
+                <default>false</default>
+                <label>Lagan Valley</label>
+            </value>
+            <value>
+                <fullName>Lanark and Hamilton East</fullName>
+                <default>false</default>
+                <label>Lanark and Hamilton East</label>
+            </value>
+            <value>
+                <fullName>Lancaster and Fleetwood</fullName>
+                <default>false</default>
+                <label>Lancaster and Fleetwood</label>
+            </value>
+            <value>
+                <fullName>Leeds Central</fullName>
+                <default>false</default>
+                <label>Leeds Central</label>
+            </value>
+            <value>
+                <fullName>Leeds East</fullName>
+                <default>false</default>
+                <label>Leeds East</label>
+            </value>
+            <value>
+                <fullName>Leeds North East</fullName>
+                <default>false</default>
+                <label>Leeds North East</label>
+            </value>
+            <value>
+                <fullName>Leeds North West</fullName>
+                <default>false</default>
+                <label>Leeds North West</label>
+            </value>
+            <value>
+                <fullName>Leeds West</fullName>
+                <default>false</default>
+                <label>Leeds West</label>
+            </value>
+            <value>
+                <fullName>Leicester East</fullName>
+                <default>false</default>
+                <label>Leicester East</label>
+            </value>
+            <value>
+                <fullName>Leicester South</fullName>
+                <default>false</default>
+                <label>Leicester South</label>
+            </value>
+            <value>
+                <fullName>Leicester West</fullName>
+                <default>false</default>
+                <label>Leicester West</label>
+            </value>
+            <value>
+                <fullName>Leigh</fullName>
+                <default>false</default>
+                <label>Leigh</label>
+            </value>
+            <value>
+                <fullName>Lewes</fullName>
+                <default>false</default>
+                <label>Lewes</label>
+            </value>
+            <value>
+                <fullName>Lewisham East</fullName>
+                <default>false</default>
+                <label>Lewisham East</label>
+            </value>
+            <value>
+                <fullName>Lewisham West and Penge</fullName>
+                <default>false</default>
+                <label>Lewisham West and Penge</label>
+            </value>
+            <value>
+                <fullName>Lewisham Deptford</fullName>
+                <default>false</default>
+                <label>Lewisham Deptford</label>
+            </value>
+            <value>
+                <fullName>Leyton and Wanstead</fullName>
+                <default>false</default>
+                <label>Leyton and Wanstead</label>
+            </value>
+            <value>
+                <fullName>Lichfield</fullName>
+                <default>false</default>
+                <label>Lichfield</label>
+            </value>
+            <value>
+                <fullName>Lincoln</fullName>
+                <default>false</default>
+                <label>Lincoln</label>
+            </value>
+            <value>
+                <fullName>Linlithgow and East Falkirk</fullName>
+                <default>false</default>
+                <label>Linlithgow and East Falkirk</label>
+            </value>
+            <value>
+                <fullName>Liverpool Riverside</fullName>
+                <default>false</default>
+                <label>Liverpool Riverside</label>
+            </value>
+            <value>
+                <fullName>Liverpool Walton</fullName>
+                <default>false</default>
+                <label>Liverpool Walton</label>
+            </value>
+            <value>
+                <fullName>Liverpool Wavertree</fullName>
+                <default>false</default>
+                <label>Liverpool Wavertree</label>
+            </value>
+            <value>
+                <fullName>Liverpool West Derby</fullName>
+                <default>false</default>
+                <label>Liverpool West Derby</label>
+            </value>
+            <value>
+                <fullName>Livingston</fullName>
+                <default>false</default>
+                <label>Livingston</label>
+            </value>
+            <value>
+                <fullName>Llanelli</fullName>
+                <default>false</default>
+                <label>Llanelli</label>
+            </value>
+            <value>
+                <fullName>Loughborough</fullName>
+                <default>false</default>
+                <label>Loughborough</label>
+            </value>
+            <value>
+                <fullName>Louth and Horncastle</fullName>
+                <default>false</default>
+                <label>Louth and Horncastle</label>
+            </value>
+            <value>
+                <fullName>Ludlow</fullName>
+                <default>false</default>
+                <label>Ludlow</label>
+            </value>
+            <value>
+                <fullName>Luton North</fullName>
+                <default>false</default>
+                <label>Luton North</label>
+            </value>
+            <value>
+                <fullName>Luton South</fullName>
+                <default>false</default>
+                <label>Luton South</label>
+            </value>
+            <value>
+                <fullName>Macclesfield</fullName>
+                <default>false</default>
+                <label>Macclesfield</label>
+            </value>
+            <value>
+                <fullName>Maidenhead</fullName>
+                <default>false</default>
+                <label>Maidenhead</label>
+            </value>
+            <value>
+                <fullName>Maidstone and The Weald</fullName>
+                <default>false</default>
+                <label>Maidstone and The Weald</label>
+            </value>
+            <value>
+                <fullName>Makerfield</fullName>
+                <default>false</default>
+                <label>Makerfield</label>
+            </value>
+            <value>
+                <fullName>Maldon</fullName>
+                <default>false</default>
+                <label>Maldon</label>
+            </value>
+            <value>
+                <fullName>Manchester Central</fullName>
+                <default>false</default>
+                <label>Manchester Central</label>
+            </value>
+            <value>
+                <fullName>Manchester Gorton</fullName>
+                <default>false</default>
+                <label>Manchester Gorton</label>
+            </value>
+            <value>
+                <fullName>Manchester Withington</fullName>
+                <default>false</default>
+                <label>Manchester Withington</label>
+            </value>
+            <value>
+                <fullName>Mansfield</fullName>
+                <default>false</default>
+                <label>Mansfield</label>
+            </value>
+            <value>
+                <fullName>Meon Valley</fullName>
+                <default>false</default>
+                <label>Meon Valley</label>
+            </value>
+            <value>
+                <fullName>Meriden</fullName>
+                <default>false</default>
+                <label>Meriden</label>
+            </value>
+            <value>
+                <fullName>Merthyr Tydfil and Rhymney</fullName>
+                <default>false</default>
+                <label>Merthyr Tydfil and Rhymney</label>
+            </value>
+            <value>
+                <fullName>Mid Bedfordshire</fullName>
+                <default>false</default>
+                <label>Mid Bedfordshire</label>
+            </value>
+            <value>
+                <fullName>Mid Derbyshire</fullName>
+                <default>false</default>
+                <label>Mid Derbyshire</label>
+            </value>
+            <value>
+                <fullName>Mid Dorset and North Poole</fullName>
+                <default>false</default>
+                <label>Mid Dorset and North Poole</label>
+            </value>
+            <value>
+                <fullName>Mid Norfolk</fullName>
+                <default>false</default>
+                <label>Mid Norfolk</label>
+            </value>
+            <value>
+                <fullName>Mid Sussex</fullName>
+                <default>false</default>
+                <label>Mid Sussex</label>
+            </value>
+            <value>
+                <fullName>Mid Ulster</fullName>
+                <default>false</default>
+                <label>Mid Ulster</label>
+            </value>
+            <value>
+                <fullName>Mid Worcestershire</fullName>
+                <default>false</default>
+                <label>Mid Worcestershire</label>
+            </value>
+            <value>
+                <fullName>Middlesbrough</fullName>
+                <default>false</default>
+                <label>Middlesbrough</label>
+            </value>
+            <value>
+                <fullName>Middlesbrough South and East Cleveland</fullName>
+                <default>false</default>
+                <label>Middlesbrough South and East Cleveland</label>
+            </value>
+            <value>
+                <fullName>Midlothian</fullName>
+                <default>false</default>
+                <label>Midlothian</label>
+            </value>
+            <value>
+                <fullName>Milton Keynes North</fullName>
+                <default>false</default>
+                <label>Milton Keynes North</label>
+            </value>
+            <value>
+                <fullName>Milton Keynes South</fullName>
+                <default>false</default>
+                <label>Milton Keynes South</label>
+            </value>
+            <value>
+                <fullName>Mitcham and Morden</fullName>
+                <default>false</default>
+                <label>Mitcham and Morden</label>
+            </value>
+            <value>
+                <fullName>Mole Valley</fullName>
+                <default>false</default>
+                <label>Mole Valley</label>
+            </value>
+            <value>
+                <fullName>Monmouth</fullName>
+                <default>false</default>
+                <label>Monmouth</label>
+            </value>
+            <value>
+                <fullName>Montgomeryshire</fullName>
+                <default>false</default>
+                <label>Montgomeryshire</label>
+            </value>
+            <value>
+                <fullName>Moray</fullName>
+                <default>false</default>
+                <label>Moray</label>
+            </value>
+            <value>
+                <fullName>Morecambe and Lunesdale</fullName>
+                <default>false</default>
+                <label>Morecambe and Lunesdale</label>
+            </value>
+            <value>
+                <fullName>Morley and Outwood</fullName>
+                <default>false</default>
+                <label>Morley and Outwood</label>
+            </value>
+            <value>
+                <fullName>Motherwell and Wishaw</fullName>
+                <default>false</default>
+                <label>Motherwell and Wishaw</label>
+            </value>
+            <value>
+                <fullName>Na h-Eileanan an Iar</fullName>
+                <default>false</default>
+                <label>Na h-Eileanan an Iar</label>
+            </value>
+            <value>
+                <fullName>Neath</fullName>
+                <default>false</default>
+                <label>Neath</label>
+            </value>
+            <value>
+                <fullName>New Forest East</fullName>
+                <default>false</default>
+                <label>New Forest East</label>
+            </value>
+            <value>
+                <fullName>New Forest West</fullName>
+                <default>false</default>
+                <label>New Forest West</label>
+            </value>
+            <value>
+                <fullName>Newark</fullName>
+                <default>false</default>
+                <label>Newark</label>
+            </value>
+            <value>
+                <fullName>Newbury</fullName>
+                <default>false</default>
+                <label>Newbury</label>
+            </value>
+            <value>
+                <fullName>Newcastle upon Tyne Central</fullName>
+                <default>false</default>
+                <label>Newcastle upon Tyne Central</label>
+            </value>
+            <value>
+                <fullName>Newcastle upon Tyne East</fullName>
+                <default>false</default>
+                <label>Newcastle upon Tyne East</label>
+            </value>
+            <value>
+                <fullName>Newcastle upon Tyne North</fullName>
+                <default>false</default>
+                <label>Newcastle upon Tyne North</label>
+            </value>
+            <value>
+                <fullName>Newcastle-under-Lyme</fullName>
+                <default>false</default>
+                <label>Newcastle-under-Lyme</label>
+            </value>
+            <value>
+                <fullName>Newport East</fullName>
+                <default>false</default>
+                <label>Newport East</label>
+            </value>
+            <value>
+                <fullName>Newport West</fullName>
+                <default>false</default>
+                <label>Newport West</label>
+            </value>
+            <value>
+                <fullName>Newry and Armagh</fullName>
+                <default>false</default>
+                <label>Newry and Armagh</label>
+            </value>
+            <value>
+                <fullName>Newton Abbot</fullName>
+                <default>false</default>
+                <label>Newton Abbot</label>
+            </value>
+            <value>
+                <fullName>Normanton Pontefract and Castleford</fullName>
+                <default>false</default>
+                <label>Normanton Pontefract and Castleford</label>
+            </value>
+            <value>
+                <fullName>North Antrim</fullName>
+                <default>false</default>
+                <label>North Antrim</label>
+            </value>
+            <value>
+                <fullName>North Ayrshire and Arran</fullName>
+                <default>false</default>
+                <label>North Ayrshire and Arran</label>
+            </value>
+            <value>
+                <fullName>North Cornwall</fullName>
+                <default>false</default>
+                <label>North Cornwall</label>
+            </value>
+            <value>
+                <fullName>North Devon</fullName>
+                <default>false</default>
+                <label>North Devon</label>
+            </value>
+            <value>
+                <fullName>North Dorset</fullName>
+                <default>false</default>
+                <label>North Dorset</label>
+            </value>
+            <value>
+                <fullName>North Down</fullName>
+                <default>false</default>
+                <label>North Down</label>
+            </value>
+            <value>
+                <fullName>North Durham</fullName>
+                <default>false</default>
+                <label>North Durham</label>
+            </value>
+            <value>
+                <fullName>North East Bedfordshire</fullName>
+                <default>false</default>
+                <label>North East Bedfordshire</label>
+            </value>
+            <value>
+                <fullName>North East Cambridgeshire</fullName>
+                <default>false</default>
+                <label>North East Cambridgeshire</label>
+            </value>
+            <value>
+                <fullName>North East Derbyshire</fullName>
+                <default>false</default>
+                <label>North East Derbyshire</label>
+            </value>
+            <value>
+                <fullName>North East Fife</fullName>
+                <default>false</default>
+                <label>North East Fife</label>
+            </value>
+            <value>
+                <fullName>North East Hampshire</fullName>
+                <default>false</default>
+                <label>North East Hampshire</label>
+            </value>
+            <value>
+                <fullName>North East Hertfordshire</fullName>
+                <default>false</default>
+                <label>North East Hertfordshire</label>
+            </value>
+            <value>
+                <fullName>North East Somerset</fullName>
+                <default>false</default>
+                <label>North East Somerset</label>
+            </value>
+            <value>
+                <fullName>North Herefordshire</fullName>
+                <default>false</default>
+                <label>North Herefordshire</label>
+            </value>
+            <value>
+                <fullName>North Norfolk</fullName>
+                <default>false</default>
+                <label>North Norfolk</label>
+            </value>
+            <value>
+                <fullName>North Shropshire</fullName>
+                <default>false</default>
+                <label>North Shropshire</label>
+            </value>
+            <value>
+                <fullName>North Somerset</fullName>
+                <default>false</default>
+                <label>North Somerset</label>
+            </value>
+            <value>
+                <fullName>North Swindon</fullName>
+                <default>false</default>
+                <label>North Swindon</label>
+            </value>
+            <value>
+                <fullName>North Thanet</fullName>
+                <default>false</default>
+                <label>North Thanet</label>
+            </value>
+            <value>
+                <fullName>North Tyneside</fullName>
+                <default>false</default>
+                <label>North Tyneside</label>
+            </value>
+            <value>
+                <fullName>North Warwickshire</fullName>
+                <default>false</default>
+                <label>North Warwickshire</label>
+            </value>
+            <value>
+                <fullName>North West Cambridgeshire</fullName>
+                <default>false</default>
+                <label>North West Cambridgeshire</label>
+            </value>
+            <value>
+                <fullName>North West Durham</fullName>
+                <default>false</default>
+                <label>North West Durham</label>
+            </value>
+            <value>
+                <fullName>North West Hampshire</fullName>
+                <default>false</default>
+                <label>North West Hampshire</label>
+            </value>
+            <value>
+                <fullName>North West Leicestershire</fullName>
+                <default>false</default>
+                <label>North West Leicestershire</label>
+            </value>
+            <value>
+                <fullName>North West Norfolk</fullName>
+                <default>false</default>
+                <label>North West Norfolk</label>
+            </value>
+            <value>
+                <fullName>North Wiltshire</fullName>
+                <default>false</default>
+                <label>North Wiltshire</label>
+            </value>
+            <value>
+                <fullName>Northampton North</fullName>
+                <default>false</default>
+                <label>Northampton North</label>
+            </value>
+            <value>
+                <fullName>Northampton South</fullName>
+                <default>false</default>
+                <label>Northampton South</label>
+            </value>
+            <value>
+                <fullName>Norwich North</fullName>
+                <default>false</default>
+                <label>Norwich North</label>
+            </value>
+            <value>
+                <fullName>Norwich South</fullName>
+                <default>false</default>
+                <label>Norwich South</label>
+            </value>
+            <value>
+                <fullName>Nottingham East</fullName>
+                <default>false</default>
+                <label>Nottingham East</label>
+            </value>
+            <value>
+                <fullName>Nottingham North</fullName>
+                <default>false</default>
+                <label>Nottingham North</label>
+            </value>
+            <value>
+                <fullName>Nottingham South</fullName>
+                <default>false</default>
+                <label>Nottingham South</label>
+            </value>
+            <value>
+                <fullName>Nuneaton</fullName>
+                <default>false</default>
+                <label>Nuneaton</label>
+            </value>
+            <value>
+                <fullName>Ochil and South Perthshire</fullName>
+                <default>false</default>
+                <label>Ochil and South Perthshire</label>
+            </value>
+            <value>
+                <fullName>Ogmore</fullName>
+                <default>false</default>
+                <label>Ogmore</label>
+            </value>
+            <value>
+                <fullName>Old Bexley and Sidcup</fullName>
+                <default>false</default>
+                <label>Old Bexley and Sidcup</label>
+            </value>
+            <value>
+                <fullName>Oldham East and Saddleworth</fullName>
+                <default>false</default>
+                <label>Oldham East and Saddleworth</label>
+            </value>
+            <value>
+                <fullName>Oldham West and Royton</fullName>
+                <default>false</default>
+                <label>Oldham West and Royton</label>
+            </value>
+            <value>
+                <fullName>Orkney and Shetland</fullName>
+                <default>false</default>
+                <label>Orkney and Shetland</label>
+            </value>
+            <value>
+                <fullName>Orpington</fullName>
+                <default>false</default>
+                <label>Orpington</label>
+            </value>
+            <value>
+                <fullName>Oxford East</fullName>
+                <default>false</default>
+                <label>Oxford East</label>
+            </value>
+            <value>
+                <fullName>Oxford West and Abingdon</fullName>
+                <default>false</default>
+                <label>Oxford West and Abingdon</label>
+            </value>
+            <value>
+                <fullName>Paisley and Renfrewshire North</fullName>
+                <default>false</default>
+                <label>Paisley and Renfrewshire North</label>
+            </value>
+            <value>
+                <fullName>Paisley and Renfrewshire South</fullName>
+                <default>false</default>
+                <label>Paisley and Renfrewshire South</label>
+            </value>
+            <value>
+                <fullName>Pendle</fullName>
+                <default>false</default>
+                <label>Pendle</label>
+            </value>
+            <value>
+                <fullName>Penistone and Stocksbridge</fullName>
+                <default>false</default>
+                <label>Penistone and Stocksbridge</label>
+            </value>
+            <value>
+                <fullName>Penrith and The Border</fullName>
+                <default>false</default>
+                <label>Penrith and The Border</label>
+            </value>
+            <value>
+                <fullName>Perth and North Perthshire</fullName>
+                <default>false</default>
+                <label>Perth and North Perthshire</label>
+            </value>
+            <value>
+                <fullName>Peterborough</fullName>
+                <default>false</default>
+                <label>Peterborough</label>
+            </value>
+            <value>
+                <fullName>Plymouth Moor View</fullName>
+                <default>false</default>
+                <label>Plymouth Moor View</label>
+            </value>
+            <value>
+                <fullName>Plymouth Sutton and Devonport</fullName>
+                <default>false</default>
+                <label>Plymouth Sutton and Devonport</label>
+            </value>
+            <value>
+                <fullName>Pontypridd</fullName>
+                <default>false</default>
+                <label>Pontypridd</label>
+            </value>
+            <value>
+                <fullName>Poole</fullName>
+                <default>false</default>
+                <label>Poole</label>
+            </value>
+            <value>
+                <fullName>Poplar and Limehouse</fullName>
+                <default>false</default>
+                <label>Poplar and Limehouse</label>
+            </value>
+            <value>
+                <fullName>Portsmouth North</fullName>
+                <default>false</default>
+                <label>Portsmouth North</label>
+            </value>
+            <value>
+                <fullName>Portsmouth South</fullName>
+                <default>false</default>
+                <label>Portsmouth South</label>
+            </value>
+            <value>
+                <fullName>Preseli Pembrokeshire</fullName>
+                <default>false</default>
+                <label>Preseli Pembrokeshire</label>
+            </value>
+            <value>
+                <fullName>Preston</fullName>
+                <default>false</default>
+                <label>Preston</label>
+            </value>
+            <value>
+                <fullName>Pudsey</fullName>
+                <default>false</default>
+                <label>Pudsey</label>
+            </value>
+            <value>
+                <fullName>Putney</fullName>
+                <default>false</default>
+                <label>Putney</label>
+            </value>
+            <value>
+                <fullName>Rayleigh and Wickford</fullName>
+                <default>false</default>
+                <label>Rayleigh and Wickford</label>
+            </value>
+            <value>
+                <fullName>Reading East</fullName>
+                <default>false</default>
+                <label>Reading East</label>
+            </value>
+            <value>
+                <fullName>Reading West</fullName>
+                <default>false</default>
+                <label>Reading West</label>
+            </value>
+            <value>
+                <fullName>Redcar</fullName>
+                <default>false</default>
+                <label>Redcar</label>
+            </value>
+            <value>
+                <fullName>Redditch</fullName>
+                <default>false</default>
+                <label>Redditch</label>
+            </value>
+            <value>
+                <fullName>Reigate</fullName>
+                <default>false</default>
+                <label>Reigate</label>
+            </value>
+            <value>
+                <fullName>Rhondda</fullName>
+                <default>false</default>
+                <label>Rhondda</label>
+            </value>
+            <value>
+                <fullName>Ribble Valley</fullName>
+                <default>false</default>
+                <label>Ribble Valley</label>
+            </value>
+            <value>
+                <fullName>Richmond (Yorks)</fullName>
+                <default>false</default>
+                <label>Richmond (Yorks)</label>
+            </value>
+            <value>
+                <fullName>Richmond Park</fullName>
+                <default>false</default>
+                <label>Richmond Park</label>
+            </value>
+            <value>
+                <fullName>Rochdale</fullName>
+                <default>false</default>
+                <label>Rochdale</label>
+            </value>
+            <value>
+                <fullName>Rochester and Strood</fullName>
+                <default>false</default>
+                <label>Rochester and Strood</label>
+            </value>
+            <value>
+                <fullName>Rochford and Southend East</fullName>
+                <default>false</default>
+                <label>Rochford and Southend East</label>
+            </value>
+            <value>
+                <fullName>Romford</fullName>
+                <default>false</default>
+                <label>Romford</label>
+            </value>
+            <value>
+                <fullName>Romsey and Southampton North</fullName>
+                <default>false</default>
+                <label>Romsey and Southampton North</label>
+            </value>
+            <value>
+                <fullName>Ross Skye and Lochaber</fullName>
+                <default>false</default>
+                <label>Ross Skye and Lochaber</label>
+            </value>
+            <value>
+                <fullName>Rossendale and Darwen</fullName>
+                <default>false</default>
+                <label>Rossendale and Darwen</label>
+            </value>
+            <value>
+                <fullName>Rother Valley</fullName>
+                <default>false</default>
+                <label>Rother Valley</label>
+            </value>
+            <value>
+                <fullName>Rotherham</fullName>
+                <default>false</default>
+                <label>Rotherham</label>
+            </value>
+            <value>
+                <fullName>Rugby</fullName>
+                <default>false</default>
+                <label>Rugby</label>
+            </value>
+            <value>
+                <fullName>Ruislip Northwood and Pinner</fullName>
+                <default>false</default>
+                <label>Ruislip Northwood and Pinner</label>
+            </value>
+            <value>
+                <fullName>Runnymede and Weybridge</fullName>
+                <default>false</default>
+                <label>Runnymede and Weybridge</label>
+            </value>
+            <value>
+                <fullName>Rushcliffe</fullName>
+                <default>false</default>
+                <label>Rushcliffe</label>
+            </value>
+            <value>
+                <fullName>Rutherglen and Hamilton West</fullName>
+                <default>false</default>
+                <label>Rutherglen and Hamilton West</label>
+            </value>
+            <value>
+                <fullName>Rutland and Melton</fullName>
+                <default>false</default>
+                <label>Rutland and Melton</label>
+            </value>
+            <value>
+                <fullName>Saffron Walden</fullName>
+                <default>false</default>
+                <label>Saffron Walden</label>
+            </value>
+            <value>
+                <fullName>Salford and Eccles</fullName>
+                <default>false</default>
+                <label>Salford and Eccles</label>
+            </value>
+            <value>
+                <fullName>Salisbury</fullName>
+                <default>false</default>
+                <label>Salisbury</label>
+            </value>
+            <value>
+                <fullName>Scarborough and Whitby</fullName>
+                <default>false</default>
+                <label>Scarborough and Whitby</label>
+            </value>
+            <value>
+                <fullName>Scunthorpe</fullName>
+                <default>false</default>
+                <label>Scunthorpe</label>
+            </value>
+            <value>
+                <fullName>Sedgefield</fullName>
+                <default>false</default>
+                <label>Sedgefield</label>
+            </value>
+            <value>
+                <fullName>Sefton Central</fullName>
+                <default>false</default>
+                <label>Sefton Central</label>
+            </value>
+            <value>
+                <fullName>Selby and Ainsty</fullName>
+                <default>false</default>
+                <label>Selby and Ainsty</label>
+            </value>
+            <value>
+                <fullName>Sevenoaks</fullName>
+                <default>false</default>
+                <label>Sevenoaks</label>
+            </value>
+            <value>
+                <fullName>Sheffield Central</fullName>
+                <default>false</default>
+                <label>Sheffield Central</label>
+            </value>
+            <value>
+                <fullName>Sheffield South East</fullName>
+                <default>false</default>
+                <label>Sheffield South East</label>
+            </value>
+            <value>
+                <fullName>Sheffield Brightside and Hillsborough</fullName>
+                <default>false</default>
+                <label>Sheffield Brightside and Hillsborough</label>
+            </value>
+            <value>
+                <fullName>Sheffield Hallam</fullName>
+                <default>false</default>
+                <label>Sheffield Hallam</label>
+            </value>
+            <value>
+                <fullName>Sheffield Heeley</fullName>
+                <default>false</default>
+                <label>Sheffield Heeley</label>
+            </value>
+            <value>
+                <fullName>Sherwood</fullName>
+                <default>false</default>
+                <label>Sherwood</label>
+            </value>
+            <value>
+                <fullName>Shipley</fullName>
+                <default>false</default>
+                <label>Shipley</label>
+            </value>
+            <value>
+                <fullName>Shrewsbury and Atcham</fullName>
+                <default>false</default>
+                <label>Shrewsbury and Atcham</label>
+            </value>
+            <value>
+                <fullName>Sittingbourne and Sheppey</fullName>
+                <default>false</default>
+                <label>Sittingbourne and Sheppey</label>
+            </value>
+            <value>
+                <fullName>Skipton and Ripon</fullName>
+                <default>false</default>
+                <label>Skipton and Ripon</label>
+            </value>
+            <value>
+                <fullName>Sleaford and North Hykeham</fullName>
+                <default>false</default>
+                <label>Sleaford and North Hykeham</label>
+            </value>
+            <value>
+                <fullName>Slough</fullName>
+                <default>false</default>
+                <label>Slough</label>
+            </value>
+            <value>
+                <fullName>Solihull</fullName>
+                <default>false</default>
+                <label>Solihull</label>
+            </value>
+            <value>
+                <fullName>Somerton and Frome</fullName>
+                <default>false</default>
+                <label>Somerton and Frome</label>
+            </value>
+            <value>
+                <fullName>South Antrim</fullName>
+                <default>false</default>
+                <label>South Antrim</label>
+            </value>
+            <value>
+                <fullName>South Basildon and East Thurrock</fullName>
+                <default>false</default>
+                <label>South Basildon and East Thurrock</label>
+            </value>
+            <value>
+                <fullName>South Cambridgeshire</fullName>
+                <default>false</default>
+                <label>South Cambridgeshire</label>
+            </value>
+            <value>
+                <fullName>South Derbyshire</fullName>
+                <default>false</default>
+                <label>South Derbyshire</label>
+            </value>
+            <value>
+                <fullName>South Dorset</fullName>
+                <default>false</default>
+                <label>South Dorset</label>
+            </value>
+            <value>
+                <fullName>South Down</fullName>
+                <default>false</default>
+                <label>South Down</label>
+            </value>
+            <value>
+                <fullName>South East Cambridgeshire</fullName>
+                <default>false</default>
+                <label>South East Cambridgeshire</label>
+            </value>
+            <value>
+                <fullName>South East Cornwall</fullName>
+                <default>false</default>
+                <label>South East Cornwall</label>
+            </value>
+            <value>
+                <fullName>South Holland and The Deepings</fullName>
+                <default>false</default>
+                <label>South Holland and The Deepings</label>
+            </value>
+            <value>
+                <fullName>South Leicestershire</fullName>
+                <default>false</default>
+                <label>South Leicestershire</label>
+            </value>
+            <value>
+                <fullName>South Norfolk</fullName>
+                <default>false</default>
+                <label>South Norfolk</label>
+            </value>
+            <value>
+                <fullName>South Northamptonshire</fullName>
+                <default>false</default>
+                <label>South Northamptonshire</label>
+            </value>
+            <value>
+                <fullName>South Ribble</fullName>
+                <default>false</default>
+                <label>South Ribble</label>
+            </value>
+            <value>
+                <fullName>South Shields</fullName>
+                <default>false</default>
+                <label>South Shields</label>
+            </value>
+            <value>
+                <fullName>South Staffordshire</fullName>
+                <default>false</default>
+                <label>South Staffordshire</label>
+            </value>
+            <value>
+                <fullName>South Suffolk</fullName>
+                <default>false</default>
+                <label>South Suffolk</label>
+            </value>
+            <value>
+                <fullName>South Swindon</fullName>
+                <default>false</default>
+                <label>South Swindon</label>
+            </value>
+            <value>
+                <fullName>South Thanet</fullName>
+                <default>false</default>
+                <label>South Thanet</label>
+            </value>
+            <value>
+                <fullName>South West Bedfordshire</fullName>
+                <default>false</default>
+                <label>South West Bedfordshire</label>
+            </value>
+            <value>
+                <fullName>South West Devon</fullName>
+                <default>false</default>
+                <label>South West Devon</label>
+            </value>
+            <value>
+                <fullName>South West Hertfordshire</fullName>
+                <default>false</default>
+                <label>South West Hertfordshire</label>
+            </value>
+            <value>
+                <fullName>South West Norfolk</fullName>
+                <default>false</default>
+                <label>South West Norfolk</label>
+            </value>
+            <value>
+                <fullName>South West Surrey</fullName>
+                <default>false</default>
+                <label>South West Surrey</label>
+            </value>
+            <value>
+                <fullName>South West Wiltshire</fullName>
+                <default>false</default>
+                <label>South West Wiltshire</label>
+            </value>
+            <value>
+                <fullName>Southampton Itchen</fullName>
+                <default>false</default>
+                <label>Southampton Itchen</label>
+            </value>
+            <value>
+                <fullName>Southampton Test</fullName>
+                <default>false</default>
+                <label>Southampton Test</label>
+            </value>
+            <value>
+                <fullName>Southend West</fullName>
+                <default>false</default>
+                <label>Southend West</label>
+            </value>
+            <value>
+                <fullName>Southport</fullName>
+                <default>false</default>
+                <label>Southport</label>
+            </value>
+            <value>
+                <fullName>Spelthorne</fullName>
+                <default>false</default>
+                <label>Spelthorne</label>
+            </value>
+            <value>
+                <fullName>St Albans</fullName>
+                <default>false</default>
+                <label>St Albans</label>
+            </value>
+            <value>
+                <fullName>St Austell and Newquay</fullName>
+                <default>false</default>
+                <label>St Austell and Newquay</label>
+            </value>
+            <value>
+                <fullName>St Helens North</fullName>
+                <default>false</default>
+                <label>St Helens North</label>
+            </value>
+            <value>
+                <fullName>St Helens South and Whiston</fullName>
+                <default>false</default>
+                <label>St Helens South and Whiston</label>
+            </value>
+            <value>
+                <fullName>St Ives</fullName>
+                <default>false</default>
+                <label>St Ives</label>
+            </value>
+            <value>
+                <fullName>Stafford</fullName>
+                <default>false</default>
+                <label>Stafford</label>
+            </value>
+            <value>
+                <fullName>Staffordshire Moorlands</fullName>
+                <default>false</default>
+                <label>Staffordshire Moorlands</label>
+            </value>
+            <value>
+                <fullName>Stalybridge and Hyde</fullName>
+                <default>false</default>
+                <label>Stalybridge and Hyde</label>
+            </value>
+            <value>
+                <fullName>Stevenage</fullName>
+                <default>false</default>
+                <label>Stevenage</label>
+            </value>
+            <value>
+                <fullName>Stirling</fullName>
+                <default>false</default>
+                <label>Stirling</label>
+            </value>
+            <value>
+                <fullName>Stockport</fullName>
+                <default>false</default>
+                <label>Stockport</label>
+            </value>
+            <value>
+                <fullName>Stockton North</fullName>
+                <default>false</default>
+                <label>Stockton North</label>
+            </value>
+            <value>
+                <fullName>Stockton South</fullName>
+                <default>false</default>
+                <label>Stockton South</label>
+            </value>
+            <value>
+                <fullName>Stoke-on-Trent Central</fullName>
+                <default>false</default>
+                <label>Stoke-on-Trent Central</label>
+            </value>
+            <value>
+                <fullName>Stoke-on-Trent North</fullName>
+                <default>false</default>
+                <label>Stoke-on-Trent North</label>
+            </value>
+            <value>
+                <fullName>Stoke-on-Trent South</fullName>
+                <default>false</default>
+                <label>Stoke-on-Trent South</label>
+            </value>
+            <value>
+                <fullName>Stone</fullName>
+                <default>false</default>
+                <label>Stone</label>
+            </value>
+            <value>
+                <fullName>Stourbridge</fullName>
+                <default>false</default>
+                <label>Stourbridge</label>
+            </value>
+            <value>
+                <fullName>Strangford</fullName>
+                <default>false</default>
+                <label>Strangford</label>
+            </value>
+            <value>
+                <fullName>Stratford-on-Avon</fullName>
+                <default>false</default>
+                <label>Stratford-on-Avon</label>
+            </value>
+            <value>
+                <fullName>Streatham</fullName>
+                <default>false</default>
+                <label>Streatham</label>
+            </value>
+            <value>
+                <fullName>Stretford and Urmston</fullName>
+                <default>false</default>
+                <label>Stretford and Urmston</label>
+            </value>
+            <value>
+                <fullName>Stroud</fullName>
+                <default>false</default>
+                <label>Stroud</label>
+            </value>
+            <value>
+                <fullName>Suffolk Coastal</fullName>
+                <default>false</default>
+                <label>Suffolk Coastal</label>
+            </value>
+            <value>
+                <fullName>Sunderland Central</fullName>
+                <default>false</default>
+                <label>Sunderland Central</label>
+            </value>
+            <value>
+                <fullName>Surrey Heath</fullName>
+                <default>false</default>
+                <label>Surrey Heath</label>
+            </value>
+            <value>
+                <fullName>Sutton and Cheam</fullName>
+                <default>false</default>
+                <label>Sutton and Cheam</label>
+            </value>
+            <value>
+                <fullName>Sutton Coldfield</fullName>
+                <default>false</default>
+                <label>Sutton Coldfield</label>
+            </value>
+            <value>
+                <fullName>Swansea East</fullName>
+                <default>false</default>
+                <label>Swansea East</label>
+            </value>
+            <value>
+                <fullName>Swansea West</fullName>
+                <default>false</default>
+                <label>Swansea West</label>
+            </value>
+            <value>
+                <fullName>Tamworth</fullName>
+                <default>false</default>
+                <label>Tamworth</label>
+            </value>
+            <value>
+                <fullName>Tatton</fullName>
+                <default>false</default>
+                <label>Tatton</label>
+            </value>
+            <value>
+                <fullName>Taunton Deane</fullName>
+                <default>false</default>
+                <label>Taunton Deane</label>
+            </value>
+            <value>
+                <fullName>Telford</fullName>
+                <default>false</default>
+                <label>Telford</label>
+            </value>
+            <value>
+                <fullName>Tewkesbury</fullName>
+                <default>false</default>
+                <label>Tewkesbury</label>
+            </value>
+            <value>
+                <fullName>The Cotswolds</fullName>
+                <default>false</default>
+                <label>The Cotswolds</label>
+            </value>
+            <value>
+                <fullName>The Wrekin</fullName>
+                <default>false</default>
+                <label>The Wrekin</label>
+            </value>
+            <value>
+                <fullName>Thirsk and Malton</fullName>
+                <default>false</default>
+                <label>Thirsk and Malton</label>
+            </value>
+            <value>
+                <fullName>Thornbury and Yate</fullName>
+                <default>false</default>
+                <label>Thornbury and Yate</label>
+            </value>
+            <value>
+                <fullName>Thurrock</fullName>
+                <default>false</default>
+                <label>Thurrock</label>
+            </value>
+            <value>
+                <fullName>Tiverton and Honiton</fullName>
+                <default>false</default>
+                <label>Tiverton and Honiton</label>
+            </value>
+            <value>
+                <fullName>Tonbridge and Malling</fullName>
+                <default>false</default>
+                <label>Tonbridge and Malling</label>
+            </value>
+            <value>
+                <fullName>Tooting</fullName>
+                <default>false</default>
+                <label>Tooting</label>
+            </value>
+            <value>
+                <fullName>Torbay</fullName>
+                <default>false</default>
+                <label>Torbay</label>
+            </value>
+            <value>
+                <fullName>Torfaen</fullName>
+                <default>false</default>
+                <label>Torfaen</label>
+            </value>
+            <value>
+                <fullName>Torridge and West Devon</fullName>
+                <default>false</default>
+                <label>Torridge and West Devon</label>
+            </value>
+            <value>
+                <fullName>Totnes</fullName>
+                <default>false</default>
+                <label>Totnes</label>
+            </value>
+            <value>
+                <fullName>Tottenham</fullName>
+                <default>false</default>
+                <label>Tottenham</label>
+            </value>
+            <value>
+                <fullName>Truro and Falmouth</fullName>
+                <default>false</default>
+                <label>Truro and Falmouth</label>
+            </value>
+            <value>
+                <fullName>Tunbridge Wells</fullName>
+                <default>false</default>
+                <label>Tunbridge Wells</label>
+            </value>
+            <value>
+                <fullName>Twickenham</fullName>
+                <default>false</default>
+                <label>Twickenham</label>
+            </value>
+            <value>
+                <fullName>Tynemouth</fullName>
+                <default>false</default>
+                <label>Tynemouth</label>
+            </value>
+            <value>
+                <fullName>Upper Bann</fullName>
+                <default>false</default>
+                <label>Upper Bann</label>
+            </value>
+            <value>
+                <fullName>Uxbridge and South Ruislip</fullName>
+                <default>false</default>
+                <label>Uxbridge and South Ruislip</label>
+            </value>
+            <value>
+                <fullName>Vale of Clwyd</fullName>
+                <default>false</default>
+                <label>Vale of Clwyd</label>
+            </value>
+            <value>
+                <fullName>Vale of Glamorgan</fullName>
+                <default>false</default>
+                <label>Vale of Glamorgan</label>
+            </value>
+            <value>
+                <fullName>Vauxhall</fullName>
+                <default>false</default>
+                <label>Vauxhall</label>
+            </value>
+            <value>
+                <fullName>Wakefield</fullName>
+                <default>false</default>
+                <label>Wakefield</label>
+            </value>
+            <value>
+                <fullName>Wallasey</fullName>
+                <default>false</default>
+                <label>Wallasey</label>
+            </value>
+            <value>
+                <fullName>Walsall North</fullName>
+                <default>false</default>
+                <label>Walsall North</label>
+            </value>
+            <value>
+                <fullName>Walsall South</fullName>
+                <default>false</default>
+                <label>Walsall South</label>
+            </value>
+            <value>
+                <fullName>Walthamstow</fullName>
+                <default>false</default>
+                <label>Walthamstow</label>
+            </value>
+            <value>
+                <fullName>Wansbeck</fullName>
+                <default>false</default>
+                <label>Wansbeck</label>
+            </value>
+            <value>
+                <fullName>Wantage</fullName>
+                <default>false</default>
+                <label>Wantage</label>
+            </value>
+            <value>
+                <fullName>Warley</fullName>
+                <default>false</default>
+                <label>Warley</label>
+            </value>
+            <value>
+                <fullName>Warrington North</fullName>
+                <default>false</default>
+                <label>Warrington North</label>
+            </value>
+            <value>
+                <fullName>Warrington South</fullName>
+                <default>false</default>
+                <label>Warrington South</label>
+            </value>
+            <value>
+                <fullName>Warwick and Leamington</fullName>
+                <default>false</default>
+                <label>Warwick and Leamington</label>
+            </value>
+            <value>
+                <fullName>Washington and Sunderland West</fullName>
+                <default>false</default>
+                <label>Washington and Sunderland West</label>
+            </value>
+            <value>
+                <fullName>Watford</fullName>
+                <default>false</default>
+                <label>Watford</label>
+            </value>
+            <value>
+                <fullName>Waveney</fullName>
+                <default>false</default>
+                <label>Waveney</label>
+            </value>
+            <value>
+                <fullName>Wealden</fullName>
+                <default>false</default>
+                <label>Wealden</label>
+            </value>
+            <value>
+                <fullName>Weaver Vale</fullName>
+                <default>false</default>
+                <label>Weaver Vale</label>
+            </value>
+            <value>
+                <fullName>Wellingborough</fullName>
+                <default>false</default>
+                <label>Wellingborough</label>
+            </value>
+            <value>
+                <fullName>Wells</fullName>
+                <default>false</default>
+                <label>Wells</label>
+            </value>
+            <value>
+                <fullName>Welwyn Hatfield</fullName>
+                <default>false</default>
+                <label>Welwyn Hatfield</label>
+            </value>
+            <value>
+                <fullName>Wentworth and Dearne</fullName>
+                <default>false</default>
+                <label>Wentworth and Dearne</label>
+            </value>
+            <value>
+                <fullName>West Aberdeenshire and Kincardine</fullName>
+                <default>false</default>
+                <label>West Aberdeenshire and Kincardine</label>
+            </value>
+            <value>
+                <fullName>West Bromwich East</fullName>
+                <default>false</default>
+                <label>West Bromwich East</label>
+            </value>
+            <value>
+                <fullName>West Bromwich West</fullName>
+                <default>false</default>
+                <label>West Bromwich West</label>
+            </value>
+            <value>
+                <fullName>West Dorset</fullName>
+                <default>false</default>
+                <label>West Dorset</label>
+            </value>
+            <value>
+                <fullName>West Dunbartonshire</fullName>
+                <default>false</default>
+                <label>West Dunbartonshire</label>
+            </value>
+            <value>
+                <fullName>West Ham</fullName>
+                <default>false</default>
+                <label>West Ham</label>
+            </value>
+            <value>
+                <fullName>West Lancashire</fullName>
+                <default>false</default>
+                <label>West Lancashire</label>
+            </value>
+            <value>
+                <fullName>West Suffolk</fullName>
+                <default>false</default>
+                <label>West Suffolk</label>
+            </value>
+            <value>
+                <fullName>West Tyrone</fullName>
+                <default>false</default>
+                <label>West Tyrone</label>
+            </value>
+            <value>
+                <fullName>West Worcestershire</fullName>
+                <default>false</default>
+                <label>West Worcestershire</label>
+            </value>
+            <value>
+                <fullName>Westminster North</fullName>
+                <default>false</default>
+                <label>Westminster North</label>
+            </value>
+            <value>
+                <fullName>Westmorland and Lonsdale</fullName>
+                <default>false</default>
+                <label>Westmorland and Lonsdale</label>
+            </value>
+            <value>
+                <fullName>Weston-Super-Mare</fullName>
+                <default>false</default>
+                <label>Weston-Super-Mare</label>
+            </value>
+            <value>
+                <fullName>Wigan</fullName>
+                <default>false</default>
+                <label>Wigan</label>
+            </value>
+            <value>
+                <fullName>Wimbledon</fullName>
+                <default>false</default>
+                <label>Wimbledon</label>
+            </value>
+            <value>
+                <fullName>Winchester</fullName>
+                <default>false</default>
+                <label>Winchester</label>
+            </value>
+            <value>
+                <fullName>Windsor</fullName>
+                <default>false</default>
+                <label>Windsor</label>
+            </value>
+            <value>
+                <fullName>Wirral South</fullName>
+                <default>false</default>
+                <label>Wirral South</label>
+            </value>
+            <value>
+                <fullName>Wirral West</fullName>
+                <default>false</default>
+                <label>Wirral West</label>
+            </value>
+            <value>
+                <fullName>Witham</fullName>
+                <default>false</default>
+                <label>Witham</label>
+            </value>
+            <value>
+                <fullName>Witney</fullName>
+                <default>false</default>
+                <label>Witney</label>
+            </value>
+            <value>
+                <fullName>Woking</fullName>
+                <default>false</default>
+                <label>Woking</label>
+            </value>
+            <value>
+                <fullName>Wokingham</fullName>
+                <default>false</default>
+                <label>Wokingham</label>
+            </value>
+            <value>
+                <fullName>Wolverhampton North East</fullName>
+                <default>false</default>
+                <label>Wolverhampton North East</label>
+            </value>
+            <value>
+                <fullName>Wolverhampton South East</fullName>
+                <default>false</default>
+                <label>Wolverhampton South East</label>
+            </value>
+            <value>
+                <fullName>Wolverhampton South West</fullName>
+                <default>false</default>
+                <label>Wolverhampton South West</label>
+            </value>
+            <value>
+                <fullName>Worcester</fullName>
+                <default>false</default>
+                <label>Worcester</label>
+            </value>
+            <value>
+                <fullName>Workington</fullName>
+                <default>false</default>
+                <label>Workington</label>
+            </value>
+            <value>
+                <fullName>Worsley and Eccles South</fullName>
+                <default>false</default>
+                <label>Worsley and Eccles South</label>
+            </value>
+            <value>
+                <fullName>Worthing West</fullName>
+                <default>false</default>
+                <label>Worthing West</label>
+            </value>
+            <value>
+                <fullName>Wrexham</fullName>
+                <default>false</default>
+                <label>Wrexham</label>
+            </value>
+            <value>
+                <fullName>Wycombe</fullName>
+                <default>false</default>
+                <label>Wycombe</label>
+            </value>
+            <value>
+                <fullName>Wyre and Preston North</fullName>
+                <default>false</default>
+                <label>Wyre and Preston North</label>
+            </value>
+            <value>
+                <fullName>Wyre Forest</fullName>
+                <default>false</default>
+                <label>Wyre Forest</label>
+            </value>
+            <value>
+                <fullName>Wythenshawe and Sale East</fullName>
+                <default>false</default>
+                <label>Wythenshawe and Sale East</label>
+            </value>
+            <value>
+                <fullName>Yeovil</fullName>
+                <default>false</default>
+                <label>Yeovil</label>
+            </value>
+            <value>
+                <fullName>Ynys Môn</fullName>
+                <default>false</default>
+                <label>Ynys Môn</label>
+            </value>
+            <value>
+                <fullName>York Central</fullName>
+                <default>false</default>
+                <label>York Central</label>
+            </value>
+            <value>
+                <fullName>York Outer</fullName>
+                <default>false</default>
+                <label>York Outer</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
